@@ -1,0 +1,4 @@
+Pip install Requests
+pip install pretty print
+
+API KEY FROM = https://home.openweathermap.org/
